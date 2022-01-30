@@ -1,0 +1,23 @@
+[
+  {
+    "id": "0",
+    "title": "Test Product",
+    "type": "test",
+    "description": "Just a Test Product",
+    "picture": "https://res.cloudinary.com/dtlmxp4oo/image/upload/v1642542488/SM-placeholder_t7nuqk.png",
+    "price": 25.0,
+    "rating": 5
+  },
+  {
+    "id": "1",
+    "title": "Test Product",
+    "type": "test",
+    "description": "Just a Test Product",
+    "picture": "https://res.cloudinary.com/dtlmxp4oo/image/upload/v1642542488/SM-placeholder_t7nuqk.png",
+    "price": 25.0,
+    "rating": 5
+  }
+]
+
+
+
